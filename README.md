@@ -136,3 +136,13 @@ app.listen(3000, function () {
   console.log('Example app listening on port 3000!')
 })
 ```
+
+### MongoDB, ExpressJS, AngularJS and NodeJS
+The MEAN Stack is not a hipster thing, as delusional people try to assertain with no real reasoning behind their empty statements. The MEAN stack is a very real thing. Here’s a slideshare for you to look at.
+
+MongoDB as a database
+ExpressJS as your web framework
+AngularJS as your client-side framework
+NodeJS as the platform
+
+The glaring benefit of using a stack such as this is the ease with which you can transfer objects through your application without having to resort to different interfaces, data presentation alternatives, and programming languages. You can really get away with just using JavaScript everywhere.
